@@ -1,0 +1,252 @@
+{
+    "192.168.1.0/24": [
+        {
+            "IP Address": "192.168.1.24",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "192.168.1.0/24",
+            "Network Address": "192.168.1.0",
+            "Broadcast Address": "192.168.1.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "10.1.4.0/23": [
+        {
+            "IP Address": "10.1.5.4",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "10.1.4.0/23",
+            "Network Address": "10.1.4.0",
+            "Broadcast Address": "10.1.5.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "172.16.20.0/24": [
+        {
+            "IP Address": "172.16.20.33",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "172.16.20.0/24",
+            "Network Address": "172.16.20.0",
+            "Broadcast Address": "172.16.20.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "192.168.100.0/22": [
+        {
+            "IP Address": "192.168.100.7",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "192.168.100.0/22",
+            "Network Address": "192.168.100.0",
+            "Broadcast Address": "192.168.103.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "10.0.3.0/24": [
+        {
+            "IP Address": "10.0.3.112",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "10.0.3.0/24",
+            "Network Address": "10.0.3.0",
+            "Broadcast Address": "10.0.3.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "172.16.0.0/23": [
+        {
+            "IP Address": "172.16.1.200",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "172.16.0.0/23",
+            "Network Address": "172.16.0.0",
+            "Broadcast Address": "172.16.1.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "10.2.0.0/22": [
+        {
+            "IP Address": "10.2.1.56",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "10.2.0.0/22",
+            "Network Address": "10.2.0.0",
+            "Broadcast Address": "10.2.3.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "192.168.2.0/24": [
+        {
+            "IP Address": "192.168.2.3",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "192.168.2.0/24",
+            "Network Address": "192.168.2.0",
+            "Broadcast Address": "192.168.2.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "172.16.48.0/22": [
+        {
+            "IP Address": "172.16.50.1",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "172.16.48.0/22",
+            "Network Address": "172.16.48.0",
+            "Broadcast Address": "172.16.51.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "10.10.0.0/23": [
+        {
+            "IP Address": "10.10.0.5",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "10.10.0.0/23",
+            "Network Address": "10.10.0.0",
+            "Broadcast Address": "10.10.1.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "192.168.3.0/24": [
+        {
+            "IP Address": "192.168.3.14",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "192.168.3.0/24",
+            "Network Address": "192.168.3.0",
+            "Broadcast Address": "192.168.3.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "10.20.4.0/22": [
+        {
+            "IP Address": "10.20.4.6",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "10.20.4.0/22",
+            "Network Address": "10.20.4.0",
+            "Broadcast Address": "10.20.7.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "172.16.8.0/23": [
+        {
+            "IP Address": "172.16.8.9",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "172.16.8.0/23",
+            "Network Address": "172.16.8.0",
+            "Broadcast Address": "172.16.9.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "10.4.3.0/24": [
+        {
+            "IP Address": "10.4.3.2",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "10.4.3.0/24",
+            "Network Address": "10.4.3.0",
+            "Broadcast Address": "10.4.3.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "192.168.20.0/22": [
+        {
+            "IP Address": "192.168.20.44",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "192.168.20.0/22",
+            "Network Address": "192.168.20.0",
+            "Broadcast Address": "192.168.23.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "172.16.40.0/24": [
+        {
+            "IP Address": "172.16.40.22",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "172.16.40.0/24",
+            "Network Address": "172.16.40.0",
+            "Broadcast Address": "172.16.40.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "10.0.0.0/23": [
+        {
+            "IP Address": "10.0.0.200",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "10.0.0.0/23",
+            "Network Address": "10.0.0.0",
+            "Broadcast Address": "10.0.1.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "192.168.10.0/24": [
+        {
+            "IP Address": "192.168.10.1",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "192.168.10.0/24",
+            "Network Address": "192.168.10.0",
+            "Broadcast Address": "192.168.10.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "172.16.14.0/23": [
+        {
+            "IP Address": "172.16.15.15",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "172.16.14.0/23",
+            "Network Address": "172.16.14.0",
+            "Broadcast Address": "172.16.15.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "10.3.0.0/22": [
+        {
+            "IP Address": "10.3.3.9",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "10.3.0.0/22",
+            "Network Address": "10.3.0.0",
+            "Broadcast Address": "10.3.3.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "192.168.4.0/24": [
+        {
+            "IP Address": "192.168.4.5",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "192.168.4.0/24",
+            "Network Address": "192.168.4.0",
+            "Broadcast Address": "192.168.4.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "10.50.2.0/24": [
+        {
+            "IP Address": "10.50.2.7",
+            "Subnet Mask": "255.255.255.0",
+            "CIDR Notation": "10.50.2.0/24",
+            "Network Address": "10.50.2.0",
+            "Broadcast Address": "10.50.2.255",
+            "Usable Hosts": 254
+        }
+    ],
+    "172.16.60.0/22": [
+        {
+            "IP Address": "172.16.60.30",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "172.16.60.0/22",
+            "Network Address": "172.16.60.0",
+            "Broadcast Address": "172.16.63.255",
+            "Usable Hosts": 1022
+        }
+    ],
+    "192.168.6.0/23": [
+        {
+            "IP Address": "192.168.7.8",
+            "Subnet Mask": "255.255.254.0",
+            "CIDR Notation": "192.168.6.0/23",
+            "Network Address": "192.168.6.0",
+            "Broadcast Address": "192.168.7.255",
+            "Usable Hosts": 510
+        }
+    ],
+    "10.15.4.0/22": [
+        {
+            "IP Address": "10.15.5.50",
+            "Subnet Mask": "255.255.252.0",
+            "CIDR Notation": "10.15.4.0/22",
+            "Network Address": "10.15.4.0",
+            "Broadcast Address": "10.15.7.255",
+            "Usable Hosts": 1022
+        }
+    ]
+}
