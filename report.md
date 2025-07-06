@@ -69,6 +69,6 @@ Large subnets have high usable IP counts, but most of them use only **1 IP**
 ### 💡 Suggested Solution:
 
 - Use **VLSM (Variable Length Subnet Masking)** to assign subnet sizes based on real usage.
-- Avoid allocating large blocks by default.
+
 
 
